@@ -1,0 +1,64 @@
+{
+    "name": "Zam #000",
+    "symbol": "SOLSER",
+    "description": "SolSers are a brave group of 99 cats that started a coup and overtook the alien mothership that enslaved them.",
+    "seller_fee_basis_points": 500,
+    "image": "https://bafkreibn4t4sn7ru4ansjh7fdyw242qxu6icfff4fwinpn4vfcvcvjn7ge.ipfs.dweb.link?ext=jpg",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Kasha"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Nebula"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Whiskers",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Attribute",
+        "value": "Galaxy"
+      },
+      {
+        "trait_type": "Ability",
+        "value": "Limitless"
+      },
+      {
+        "trait_type": "GIF",
+        "value": "No"
+      },
+      {
+        "trait_type": "Upgraded",
+        "value": "No"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://bafkreibn4t4sn7ru4ansjh7fdyw242qxu6icfff4fwinpn4vfcvcvjn7ge.ipfs.dweb.link?ext=jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7swX233AdymQECV7pgXdGGmYAJBj4xGdqqe3gAkV2ovz",
+          "share": 98
+        },
+        {
+          "address": "tsU33UT3K2JTfLgHUo7hdzRhRe4wth885cqVbM8WLiq",
+          "share": 2
+        }
+      ]
+    }
+  }
